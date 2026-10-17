@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+.DS_Store
